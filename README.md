@@ -6,7 +6,7 @@ A smart industrial monitoring system collects sensor data to predict whether a m
 Using the given dataset, build a Decision Tree Classifier to predict machine failure.
 
 ## Answer
-The code is saved in the `assignment7-Decision-Tree-2/assignment/logistic.py/` along with the csv file containing the data.
+The code is saved in the `assignment7-Decision-Tree-2/assignment/code.py/` along with the csv file containing the data.
 
 The code, the output and the decision tree are given below.
 
